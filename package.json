@@ -1,5 +1,5 @@
 {
-  "name": "auto-skeleton",
+  "name": "auto-skeleton-loader",
   "version": "1.0.0",
   "description": "Automatically generates skeleton loaders for React/Next.js applications by analyzing existing components",
   "main": "dist/index.js",
